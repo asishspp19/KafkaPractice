@@ -52,5 +52,3 @@ public class LibraryEventsController {
     }
 }
 
-/*just a omment for git practice- no functionality*/
-
